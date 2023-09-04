@@ -1,0 +1,7 @@
+HTTPS Decryption
+In this challenge, you are provided with a file containing captured network packets and a file containing master keys. Your task is to decrypt the HTTPS traffic and find the flag hidden within the decrypted data. The target domain for this challenge is mrgray.xyz. Good luck!
+
+
+https://ctfd.uctf.ir/files/91b8c40e6a6c62b684d0f9b466f4fa2c/captured_packets.pcapng?token=eyJ1c2VyX2lkIjoxMDU2LCJ0ZWFtX2lkIjo2NDcsImZpbGVfaWQiOjl9.ZPVuPA._XTUHfccQS4P_BrpKi91so-IVg8 
+
+https://ctfd.uctf.ir/files/37cb4016e75a25d8c2cf5a6adf67334c/master_keys.log?token=eyJ1c2VyX2lkIjoxMDU2LCJ0ZWFtX2lkIjo2NDcsImZpbGVfaWQiOjEwfQ.ZPVuPA.rAtaK4iIiUJI8fkCwZAslM1anK0 
